@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
+        <ApplicationManifest>app.manifest</ApplicationManifest>
+        <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+    </PropertyGroup>
+    <ItemGroup>
+      <None Remove="background.jpg" />
+      <None Remove="icon.png" />
+    </ItemGroup>
+    <ItemGroup>
+      <AvaloniaResource Include="background.jpg" />
+      <AvaloniaResource Include="icon.png" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+        <PackageReference Include="Avalonia" Version="11.0.5" />
+        <PackageReference Include="Avalonia.Controls.DataGrid" Version="11.0.5" />
+        <PackageReference Include="Avalonia.Desktop" Version="11.0.5" />
+        <PackageReference Include="Avalonia.Themes.Fluent" Version="11.0.5" />
+        <PackageReference Include="Avalonia.Fonts.Inter" Version="11.0.5" />
+        <!--Condition below is needed to remove Avalonia.Diagnostics package from build output in Release configuration.-->
+        <PackageReference Condition="'$(Configuration)' == 'Debug'" Include="Avalonia.Diagnostics" Version="11.0.5" />
+        <PackageReference Include="ClosedXML" Version="0.104.0-preview2" />
+        <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
+        <PackageReference Include="EPPlus" Version="7.1.2" />
+        <PackageReference Include="LiveChartsCore" Version="2.0.0-rc2" />
+        <PackageReference Include="LiveChartsCore.SkiaSharpView.Avalonia" Version="2.0.0-rc2" />
+        <PackageReference Include="MySql.Data" Version="8.3.0" />
+        <PackageReference Include="OxyPlot.Avalonia" Version="2.1.0" />
+        <PackageReference Include="ReactiveUI" Version="19.6.1" />
+        <PackageReference Include="ScottPlot.Avalonia" Version="5.0.34" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <AvaloniaXaml Update="DiagramForm.axaml">
+        <SubType>Designer</SubType>
+      </AvaloniaXaml>
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <Compile Update="ChangeLoginForPersonal.axaml.cs">
+        <DependentUpon>ChangeLoginForPersonal.axaml</DependentUpon>
+      </Compile>
+      <Compile Update="ChangePassForPersonal.axaml.cs">
+        <DependentUpon>ChangePassForPersonal.axaml</DependentUpon>
+      </Compile>
+      <Compile Update="ForEditForm.axaml.cs">
+        <DependentUpon>ForEditForm.axaml</DependentUpon>
+        <SubType>Code</SubType>
+      </Compile>
+      <Compile Update="DiagramForm.axaml.cs">
+        <SubType>Code</SubType>
+        <DependentUpon>DiagramForm.axaml</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <UpToDateCheckInput Remove="Window1.axaml" />
+    </ItemGroup>
+</Project>

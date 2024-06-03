@@ -1,0 +1,34 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="1000" d:DesignHeight="850"
+        x:Class="GraphDoctors.EditorForm"
+        Width="550"
+        Height="450"
+        WindowStartupLocation = "CenterScreen"
+        Icon ="avares://GraphDoctors/icon.png"
+        Title="Форма добавления дежурства">
+        <Grid>
+          <Image Source ="avares://GraphDoctors/background.jpg" Stretch="Fill"></Image>
+                <UniformGrid Columns="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock Name="TitleBlock" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize = "20" FontWeight="Bold">Добавление дежурства</TextBlock>
+                        <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Доктор:" Margin="15,20,0,0"/>
+                                <TextBox Name="DoctorNameTextBox" Width="300" Height="5" Margin = "73 0 0 0"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Отдел:" Margin="15,20,0,0"/>
+                                <TextBox Name="SpecializationTextBox" Width="300" Height="5" Margin = "80 0 0 0"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Дата дежурства:" Margin="15,20,0,0"/>
+                                <DatePicker Name="WorkDatePicker" Margin = "15 0 0 0"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                        <Button Name="AddButton" Content="Добавить" Click="AddButton_Click" Margin = "15 15 0 20"/>
+                        <Button Name="BackButton" Content="Назад" Click="BackButton_OnClick" Margin = "50 15 0 20"/>
+                        </StackPanel>
+                </UniformGrid>
+        </Grid>
+</Window>

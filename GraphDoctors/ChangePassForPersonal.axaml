@@ -1,0 +1,30 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="GraphDoctors.ChangePassForPersonal"
+        WindowStartupLocation="CenterScreen"
+        Icon="avares://GraphDoctors/icon.png"
+        Width="450"
+        Height="350"
+        Title="Сброс пароля учетной записи пользователя">
+        <Grid>
+          <Image Source ="avares://GraphDoctors/background.jpg" Stretch="Fill"></Image>
+          <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Margin = "10 10 0 20" FontSize = "20" FontWeight="Bold" HorizontalAlignment="Center"> Сброс пароля пользователя</TextBlock>
+            <StackPanel Orientation="Horizontal">
+              <TextBlock VerticalAlignment="Center" Margin=" 20 10 0 10"> Логин: </TextBlock>
+              <TextBox Name="Login" Width="200" Margin="70 10 0 10" Watermark="Введите логин для сброса:"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+              <TextBlock VerticalAlignment="Center" Margin=" 20 10 0 30"> Новый пароль: </TextBlock>
+              <TextBox Name="Password" Width="200" Margin="10 10 0 30" PasswordChar="*" Watermark="Введите новый пароль"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+              <Button Name="SaveButton" Content="Сохранить" Click="ResetPassword_OnClick" Margin=" 10 10 65 10"></Button>
+              <Button Name="BackButton" Content="Назад" Click="Back_OnClick" Margin=" 100 10 0 10"></Button>
+            </StackPanel>
+          </StackPanel>
+        </Grid>
+</Window>

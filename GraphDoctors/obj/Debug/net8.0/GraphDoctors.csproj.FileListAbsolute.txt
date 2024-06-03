@@ -1,0 +1,12 @@
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\GraphDoctors.csproj.AssemblyReference.cache
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\Avalonia\resources
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\GraphDoctors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\GraphDoctors.AssemblyInfoInputs.cache
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\GraphDoctors.AssemblyInfo.cs
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\GraphDoctors.csproj.CoreCompileInputs.cache
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\Avalonia\references
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\Avalonia\original.dll
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Users\VanoP\Desktop\ПРЕД-ДИПЛОМНАЯ\GraphDoctors\GraphDoctors\obj\Debug\net8.0\refint\GraphDoctors.dll

@@ -1,0 +1,26 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="700" d:DesignHeight="350"
+        x:Class="GraphDoctors.InfoWindow"
+        Width="700"
+        Height="350"
+        WindowStartupLocation = "CenterScreen"
+        Icon ="avares://GraphDoctors/icon.png"
+        Title="Уведомление">
+    <Grid>
+      <Image Source ="avares://GraphDoctors/background.jpg" Stretch="Fill"></Image>
+        <UniformGrid Columns="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Name="Titl" Margin = "10 10 10 10" FontSize = "25" FontWeight="Bold">Ошибка</TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Name="ExMess" Width="550" TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Center" Margin = "10 20 10 20">Код ошибки</TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Button x:Name="OK_Button" Margin ="10 20 10 20" Content="ОК" Click="Ok_Exit"/>
+            </StackPanel>
+        </UniformGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="GraphDoctors.MainWindow"
+        WindowStartupLocation="CenterScreen"
+        Title="GraphDoctors">
+        <Grid>
+                <!-- Создаем таблицу с элементами ComboBox -->
+                <Grid x:Name="table">
+                        <!-- Столбец для даты и дня недели -->
+                        
+                        <!-- Здесь будут добавлены столбцы для элементов ComboBox -->
+                </Grid>
+        </Grid>
+</Window>

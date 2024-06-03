@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="GraphDoctors/App.axaml" value="GraphDoctors/GraphDoctors.csproj" />
+        <entry key="GraphDoctors/AutorizeForm.axaml" value="GraphDoctors/GraphDoctors.csproj" />
+        <entry key="GraphDoctors/CalendarForm.axaml" value="GraphDoctors/GraphDoctors.csproj" />
+        <entry key="GraphDoctors/DiagramForm.axaml" value="GraphDoctors/GraphDoctors.csproj" />
+        <entry key="GraphDoctors/EditorForm.axaml" value="GraphDoctors/GraphDoctors.csproj" />
+        <entry key="GraphDoctors/ForEditForm.axaml" value="GraphDoctors/GraphDoctors.csproj" />
+        <entry key="GraphDoctors/InfoWindow.axaml" value="GraphDoctors/GraphDoctors.csproj" />
+        <entry key="GraphDoctors/MainWindow.axaml" value="GraphDoctors/GraphDoctors.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

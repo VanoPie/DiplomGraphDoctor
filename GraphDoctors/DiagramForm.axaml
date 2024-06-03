@@ -1,0 +1,14 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="700" d:DesignHeight="350"
+        x:Class="GraphDoctors.DiagramForm"
+        xmlns:ScottPlot="clr-namespace:ScottPlot.Avalonia;assembly=ScottPlot.Avalonia"
+        Width="700"
+        Height="650"
+        WindowStartupLocation = "CenterScreen"
+        Icon ="avares://GraphDoctors/icon.png"
+        Title="Итоги за месяц">
+  <ScottPlot:AvaPlot Name="AvaPlot1"></ScottPlot:AvaPlot>
+</Window>

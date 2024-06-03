@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|c:\\users\\vanop\\desktop\\\u043F\u0440\u0435\u0434-\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\graphdoctors\\graphdoctors\\autorizeform.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|solutionrelative:graphdoctors\\autorizeform.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|c:\\users\\vanop\\desktop\\\u043F\u0440\u0435\u0434-\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\graphdoctors\\graphdoctors\\foreditform.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|solutionrelative:graphdoctors\\foreditform.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|c:\\users\\vanop\\desktop\\\u043F\u0440\u0435\u0434-\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\graphdoctors\\graphdoctors\\editorform.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|solutionrelative:graphdoctors\\editorform.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|c:\\users\\vanop\\desktop\\\u043F\u0440\u0435\u0434-\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\graphdoctors\\graphdoctors\\foreditform.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|solutionrelative:graphdoctors\\foreditform.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|c:\\users\\vanop\\desktop\\\u043F\u0440\u0435\u0434-\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\graphdoctors\\graphdoctors\\editorform.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|solutionrelative:graphdoctors\\editorform.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|c:\\users\\vanop\\desktop\\\u043F\u0440\u0435\u0434-\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F\\graphdoctors\\graphdoctors\\calendarform.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{AE579FAD-16C3-4A38-9D98-1D721A5CD64C}|GraphDoctors\\GraphDoctors.csproj|solutionrelative:graphdoctors\\calendarform.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorizeForm.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\AutorizeForm.axaml.cs",
+              "RelativeDocumentMoniker": "GraphDoctors\\AutorizeForm.axaml.cs",
+              "ToolTip": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\AutorizeForm.axaml.cs",
+              "RelativeToolTip": "GraphDoctors\\AutorizeForm.axaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:14:34.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForEditForm.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\ForEditForm.axaml.cs",
+              "RelativeDocumentMoniker": "GraphDoctors\\ForEditForm.axaml.cs",
+              "ToolTip": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\ForEditForm.axaml.cs",
+              "RelativeToolTip": "GraphDoctors\\ForEditForm.axaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:47:11.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditorForm.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\EditorForm.axaml.cs",
+              "RelativeDocumentMoniker": "GraphDoctors\\EditorForm.axaml.cs",
+              "ToolTip": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\EditorForm.axaml.cs",
+              "RelativeToolTip": "GraphDoctors\\EditorForm.axaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:24:40.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForEditForm.axaml",
+              "DocumentMoniker": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\ForEditForm.axaml",
+              "RelativeDocumentMoniker": "GraphDoctors\\ForEditForm.axaml",
+              "ToolTip": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\ForEditForm.axaml",
+              "RelativeToolTip": "GraphDoctors\\ForEditForm.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T10:24:37.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditorForm.axaml",
+              "DocumentMoniker": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\EditorForm.axaml",
+              "RelativeDocumentMoniker": "GraphDoctors\\EditorForm.axaml",
+              "ToolTip": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\EditorForm.axaml",
+              "RelativeToolTip": "GraphDoctors\\EditorForm.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T10:21:55.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalendarForm.axaml",
+              "DocumentMoniker": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\CalendarForm.axaml",
+              "RelativeDocumentMoniker": "GraphDoctors\\CalendarForm.axaml",
+              "ToolTip": "C:\\Users\\VanoP\\Desktop\\\u041F\u0420\u0415\u0414-\u0414\u0418\u041F\u041B\u041E\u041C\u041D\u0410\u042F\\GraphDoctors\\GraphDoctors\\CalendarForm.axaml",
+              "RelativeToolTip": "GraphDoctors\\CalendarForm.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T08:34:29.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
